@@ -1,22 +1,22 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Tulin.design",
+  "name": "tulindesign",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {},
   "colors": {
-    "activityBar.activeBorder": "#1085FF",
+    "activityBar.activeBorder": "#308ae7",
     "activityBar.background": "#21252B",
     "activityBar.border": "#0D1117",
     "activityBar.foreground": "#C6CCD7",
     "activityBar.inactiveForeground": "#5F6672",
-    "activityBarBadge.background": "#1085ff",
+    "activityBarBadge.background": "#308ae7",
     "activityBarBadge.foreground": "#ffffff",
     "breadcrumb.focusForeground": "#C6CCD7",
     "breadcrumb.foreground": "#5F6672",
-    "button.background": "#1085ff",
+    "button.background": "#308ae7",
     "button.foreground": "#ffffff",
-    "button.hoverBackground": "#0b70d9",
+    "button.hoverBackground": "#1b76d4",
     "button.secondaryBackground": "#0D1117",
     "button.secondaryForeground": "#ffffff",
     "checkbox.background": "#61AFEF",
@@ -202,7 +202,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment", "source.diff"],
       "settings": {
-        "foreground": "#5F6672"
+        "foreground": "#647884"
       }
     },
     {
@@ -290,7 +290,7 @@
     {
       "scope": ["meta.brace", "punctuation"],
       "settings": {
-        "foreground": "#5F6672"
+        "foreground": "#576c78"
       }
     },
     {
