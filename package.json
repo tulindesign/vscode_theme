@@ -1,7 +1,7 @@
 {
 	"name": "tulindesign",
 	"displayName": "Tulin Design",
-	"version": "1.2.0",
+	"version": "1.0.0",
 	"private": true,
 	"description": "A simple theme.",
 	"categories": [
@@ -40,14 +40,16 @@
 		]
 	},
 	"__metadata": {
-		"publisherDisplayName": "Tulin Design",
+		"publisherDisplayName": "tulindesign",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
 		"isPreReleaseVersion": false,
 		"hasPreReleaseVersion": false,
-		"installedTimestamp": 1729445269085,
-		"pinned": false,
+		"installedTimestamp": 1729537713834,
+		"pinned": true,
 		"preRelease": false,
-		"source": "gallery"
+		"source": "gallery",
+		"id": "aa18b399-5234-4019-b07b-4bc26993312e",
+		"publisherId": "97ee09e1-608f-4e96-b19f-b4cfc9bf8ce0"
 	}
 }
