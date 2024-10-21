@@ -2,7 +2,7 @@
 
 ## Preview
 
-<a href="https://tulin.design" target="_blank"><img src="https://github.com/tulindesign/vscode_theme/blob/3d01842c4d89da9e6c4119f023345416ca7afb85/screenshot.jpg" width="500" alt="Screenshot"></a>
+<a href="https://tulin.design" target="_blank"><img src="https://tulin.design/github/screenshot.jpg" width="500" alt="Screenshot"></a>
 
 ## Install
 
