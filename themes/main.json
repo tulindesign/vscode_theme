@@ -278,7 +278,7 @@
 	  "variable.other.constant.js",
 	  "meta.var-single-variable.expr.js",
 	  "meta.object.member.js",
-	  "meta.objectliteral.js", "variable.other.object.js"],
+	  "meta.objectliteral.js"],
       "settings": {
         "foreground": "#C3DBFE"
       }
