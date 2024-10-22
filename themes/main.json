@@ -301,7 +301,8 @@
 		"keyword.operator.comparison.js",
 		"keyword.operator.assignment.compound.js",
 		"meta.method.declaration.js",
-		"meta.property-name.css"],
+		"meta.property-name.css",
+		"string.quoted.double.json"],
       "settings": {
         "foreground": "#BDD8FF"
       }
