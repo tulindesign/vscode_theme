@@ -31,6 +31,8 @@
     "diffEditor.removedTextBackground": "#FF9FA81A",
     "dropdown.background": "#2b2f34",
     "dropdown.border": "#fff",
+	
+	"badge.background": "#3188F55C",
     "editor.background": "#1D2025",
     "editor.findMatchBackground": "#00000000",
     "editor.findMatchBorder": "#1085FF",
