@@ -274,9 +274,22 @@
       }
     },
     {
-      "scope": ["variable.other.constant.js", "meta.var-single-variable.expr.js"],
+      "scope": [
+	  "variable.other.constant.js",
+	  "meta.var-single-variable.expr.js",
+	  "meta.object.member.js",
+	  "meta.objectliteral.js", "variable.other.object.js"],
       "settings": {
         "foreground": "#C3DBFE"
+      }
+    },
+	
+    {
+      "scope": [
+	  "variable.other.property.js", "variable.parameter.js", 
+	  "meta.object-literal.key.js",],
+      "settings": {
+        "foreground": "#DBE1EA"
       }
     },
     {
