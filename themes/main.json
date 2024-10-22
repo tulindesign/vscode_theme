@@ -295,14 +295,14 @@
 		"meta.var-single-variable.expr.js",
 		"entity.other.attribute-name.js",
 		"meta.objectliteral.js",
+		"variable.other.object.js",
 		"variable.language.this.js",
 		"keyword.operator.arithmetic.js",
 		"keyword.operator.assignment.js",
 		"keyword.operator.comparison.js",
 		"keyword.operator.assignment.compound.js",
 		"meta.method.declaration.js",
-		"meta.property-name.css",
-		"string.quoted.double.json"],
+		"meta.property-name.css"],
       "settings": {
         "foreground": "#BDD8FF"
       }
