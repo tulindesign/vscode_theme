@@ -267,7 +267,6 @@
         "entity.name.section",
         "entity.name.tag",
         "entity.name.type",
-        "support.type"
       ],
       "settings": {
         "foreground": "#61AFEF"
@@ -287,7 +286,8 @@
     {
       "scope": [
 	  "variable.other.property.js", "variable.parameter.js", 
-	  "meta.object-literal.key.js",],
+	  "meta.object-literal.key.js", 
+        "support.type"],
       "settings": {
         "foreground": "#DBE1EA"
       }
