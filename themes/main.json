@@ -208,6 +208,7 @@
     },
     {
       "scope": [
+		"entity.name.function.js",
         "support.function",
         "meta.diff.range",
         "punctuation.definition.range.diff"
@@ -302,7 +303,9 @@
 		"keyword.operator.assignment.js",
 		"keyword.operator.comparison.js",
 		"keyword.operator.assignment.compound.js",
-		"meta.property-name.css"],
+		"meta.property-name.css",
+		"entity.other.attribute-name.html",
+		"string.quoted.double.json"],
       "settings": {
         "foreground": "#BDD8FF"
       }
@@ -310,12 +313,12 @@
 	
     {
       "scope": [
-	  "variable.other.property.js", "variable.parameter.js", 
-	  "meta.object-literal.key.js",  
+		"variable.other.property.js", "variable.parameter.js", 
+		"meta.object-literal.key.js",  
 		"meta.object.member.js",
 		"support.constant.property-value.css",
 		"meta.property-value.css",
-		"meta.property-list.css",],
+		"meta.property-list.css"],
       "settings": {
         "foreground": "#D3D9E3"
       }
@@ -345,10 +348,10 @@
     },
     {
       "scope": [
-		"meta.function-call.js",
 		"keyword.control.import.js",
 		"keyword.control.export.js",
-		"keyword.control.default.js"
+		"keyword.control.default.js",
+		"keyword.control.from.js"
       ],
       "settings": {
         "foreground": "#61AFEF"
