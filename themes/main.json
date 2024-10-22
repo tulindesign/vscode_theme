@@ -36,7 +36,7 @@
     "editor.findMatchBorder": "#1085FF",
     "editor.findMatchHighlightBackground": "#00000000",
     "editor.findMatchHighlightBorder": "#C6CCD7",
-    "editor.foreground": "#A9B2C3",
+    "editor.foreground": "#DBE1EA",
     "editor.lineHighlightBackground": "#A9B2C31A",
     "editor.lineHighlightBorder": "#00000000",
     "editor.linkedEditingBackground": "#0D1117",
@@ -268,7 +268,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#61AFEF"
       }
     },
     {

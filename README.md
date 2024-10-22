@@ -1,5 +1,7 @@
 # Tulin Design theme for [Visual Studio Code](https://code.visualstudio.com)
 
+<img src="images/logo.svg width="256" alt="Tulin Design">
+
 ## Preview
 
 <a href="https://tulin.design" target="_blank"><img src="https://tulin.design/github/screenshot.jpg" width="500" alt="Screenshot"></a>
