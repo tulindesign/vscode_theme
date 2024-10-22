@@ -242,12 +242,13 @@
         "storage",
         "support.class",
         "entity.name.namespace",
-        "meta.diff.header"
+        "meta.diff.header",
       ],
       "settings": {
         "foreground": "#61AFEF"
       }
     },
+	
     {
       "scope": [
         "markup.inline.raw.string",
@@ -279,16 +280,9 @@
       }
     },
     {
-      "scope": ["support.variable", "support.type.property-name"],
-      "settings": {
-        "foreground": "#dbe1ea"
-      }
-    },
-    {
       "scope": [
         "entity.other",
         "punctuation.definition.entity",
-        "support.other"
       ],
       "settings": {
         "foreground": "#e06c75"
@@ -307,6 +301,14 @@
       "scope": ["meta.brace", "punctuation"],
       "settings": {
         "foreground": "#576c78"
+      }
+    },
+    {
+      "scope": [
+		"meta.function-call.js"
+      ],
+      "settings": {
+        "foreground": "#61AFEF"
       }
     },
     {
