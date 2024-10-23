@@ -221,14 +221,7 @@
     {
       "scope": [
         "keyword.control.conditional.js",
-		"keyword.control.loop.js"
-      ],
-      "settings": {
-        "foreground": "#E06C75"
-      }
-    },
-    {
-      "scope": [
+		"keyword.control.loop.js",
         "punctuation.definition.keyword",
         "variable.language",
         "markup.deleted",
@@ -348,10 +341,7 @@
     },
     {
       "scope": [
-		"keyword.control.import.js",
-		"keyword.control.export.js",
-		"keyword.control.default.js",
-		"keyword.control.from.js"
+		"keyword",
       ],
       "settings": {
         "foreground": "#61AFEF"
