@@ -208,8 +208,9 @@
     },
     {
       "scope": [
-		"entity.name.function.js",
+		"entity.name.function",
         "support.function",
+		"meta.definition.function",
         "meta.diff.range",
         "punctuation.definition.range.diff"
       ],
@@ -240,7 +241,7 @@
       }
     },
     {
-      "scope": ["entity.name.type.class", "variable.other.readwrite.alias.js"],
+      "scope": ["variable.other.readwrite.alias.js"],
       "settings": {
         "foreground": "#E5C07B"
       }
@@ -248,7 +249,6 @@
     {
       "scope": [
         "storage",
-        "support.class",
         "entity.name.namespace",
         "meta.diff.header",
 		"entity.name.tag.html",
@@ -275,10 +275,9 @@
     },
     {
       "scope": [
-        "entity.name.section",
-        "entity.name.tag",
-        "entity.name.type",
 		"punctuation.definition.entity",
+		
+		"meta.function-call.js",
 		"meta.selector.css",
       ],
       "settings": {
@@ -288,9 +287,9 @@
     {
       "scope": [
 		"variable.other.constant.js",
+		"variable.other.object.js",
 		"meta.var-single-variable.expr.js",
 		"entity.other.attribute-name.js",
-		"variable.other.object.js",
 		"variable.language.this.js",
 		"keyword.operator.arithmetic.js",
 		"keyword.operator.assignment.js",
@@ -306,10 +305,10 @@
 	
     {
       "scope": [
-        "variable.other.property.js", "variable.parameter.js", 
+		"variable.parameter.js", 
         "meta.object-literal.key.js",  
         "meta.object.member.js",
-        "variable.other.readwrite.js",
+        "variable.other.property.js",
         "support.constant.property-value.css",
         "meta.property-value.css",
         "meta.property-list.css"],
