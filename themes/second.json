@@ -389,7 +389,7 @@
             "scope": [
                 "entity.other.attribute-name",
 				"support.type.vendored.property-name.css",
-				"support.type.vendored.property-name.scss",
+				"support.type.vendored.property-name.scss"
             ],
             "settings": {
                 "foreground": "#E5C07B",
@@ -419,7 +419,7 @@
                 "meta.at-rule.function variable",
                 "meta.at-rule.mixin variable",
                 "meta.function.arguments variable.other.php",
-                "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
+                "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql"
             ],
             "settings": {
                 "fontStyle": "italic",
@@ -925,7 +925,7 @@
             "name": "SCSS attribute selector brackets",
             "scope": [
                 "punctuation.definition.attribute-selector.end.bracket.square.scss",
-                "punctuation.definition.attribute-selector.begin.bracket.square.scss",
+                "punctuation.definition.attribute-selector.begin.bracket.square.scss"
             ],
             "settings": {
                 "foreground": "#F8F8F2"
@@ -1224,6 +1224,6 @@
     "breadcrumb.activeSelectionForeground": "#c6ccd7",
     "editorGutter.commentRangeForeground": "#d3d9e364",
     "debugExceptionWidget.background": "#182230e3",
-    "debugExceptionWidget.border": "#00000000",
+    "debugExceptionWidget.border": "#00000000"
   }
 }
