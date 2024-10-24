@@ -37,17 +37,16 @@
 	"icon": "images/logo512.png",
 	"contributes": {
 		"themes": [
-			
 			{
 				"label": "tulindesign / main_version",
 				"uiTheme": "vs-dark",
 				"path": "./themes/second.json"
-			}
+			},
 			{
 				"label": "tulindesign / old",
 				"uiTheme": "vs-dark",
 				"path": "./themes/main.json"
-			},
+			}
 		]
 	},
 	"__metadata": {
